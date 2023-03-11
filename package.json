@@ -1,6 +1,6 @@
 {
   "name": "ciryic",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "ciryic static file",
   "main": "index.js",
   "scripts": {
