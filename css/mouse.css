@@ -1,0 +1,10 @@
+/* 鼠标样式 */
+body {
+
+  cursor: url(https://cdn.jsdelivr.net/gh/cicyic/cdn/mouse/x1.cur),auto;
+}
+a,
+img,
+button {
+  cursor: url(https://cdn.jsdelivr.net/gh/cicyic/cdn/mouse/link.cur), auto !important;
+}
