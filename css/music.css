@@ -239,7 +239,6 @@ body:has(#anMusic-page) .aplayer .aplayer-info .aplayer-controller .aplayer-time
     background-size:auto 100%;
     background-attachment:fixed;
     }
-}
   /* 歌曲列表 */
   #anMusic-page .aplayer-list {
     position: fixed;
@@ -383,3 +382,4 @@ body:has(#anMusic-page) .aplayer .aplayer-info .aplayer-controller .aplayer-time
   #anMusic-page .aplayer .aplayer-info .aplayer-controller .aplayer-volume-wrap {
     left: -66px;
   }
+}
