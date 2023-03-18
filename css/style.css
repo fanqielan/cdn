@@ -22,12 +22,10 @@
   border: 1px #e3e8f7;
   overflow: hidden;
 }
-
 .pace-inactive .pace-progress {
   opacity: 0;
   transition: 0.3s ease-in;
 }
-
 .pace .pace-progress {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -51,7 +49,6 @@
   animation: gradient 1.5s ease infinite;
   background-size: 200%;
 }
-
 .pace.pace-inactive {
   opacity: 0;
   transition: 0.3s;
@@ -71,7 +68,6 @@
 
 /* mouse style */
 body {
-
   cursor: url(https://cdn.jsdelivr.net/gh/cicyic/cdn/mouse/x1.cur),auto;
 }
 a,
@@ -79,16 +75,13 @@ img,
 button {
   cursor: url(https://cdn.jsdelivr.net/gh/cicyic/cdn/mouse/link.cur), auto !important;
 }
-
 /* font style */
 @charset "UTF-8";
-
 @font-face {
   font-family: "ruantang";
   src: url("/fonts/软糖初恋体.ttf") format("truetype");
   font-display: swap;
 }
-
 /* website runtime */
 div#runtime {
     color: palevioletred;
