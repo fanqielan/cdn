@@ -68,18 +68,18 @@
 
 /* mouse style */
 body {
-  cursor: url(https://cdn.jsdelivr.net/gh/cicyic/cdn/mouse/x1.cur),auto;
+  cursor: url(https://cdn.jsdelivr.net/gh/cicyic/cdn@main/mouse/x1.cur),auto;
 }
 a,
 img,
 button {
-  cursor: url(https://cdn.jsdelivr.net/gh/cicyic/cdn/mouse/link.cur), auto !important;
+  cursor: url(https://cdn.jsdelivr.net/gh/cicyic/cdn@main/mouse/link.cur), auto !important;
 }
 /* font style */
 @charset "UTF-8";
 @font-face {
   font-family: "ruantang";
-  src: url("/软糖初恋体.ttf") format("truetype");
+  src: url("https://cdn.jsdelivr.net/gh/cicyic/cdn@main/css/软糖初恋体.ttf") format("truetype");
   font-display: swap;
 }
 /* website runtime */
