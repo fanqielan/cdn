@@ -1,6 +1,6 @@
 {
   "name": "cdn-list",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "for website",
   "main": "index.js",
   "scripts": {

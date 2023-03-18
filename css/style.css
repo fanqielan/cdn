@@ -79,7 +79,7 @@ button {
 @charset "UTF-8";
 @font-face {
   font-family: "ruantang";
-  src: url("/fonts/软糖初恋体.ttf") format("truetype");
+  src: url("/软糖初恋体.ttf") format("truetype");
   font-display: swap;
 }
 /* website runtime */
