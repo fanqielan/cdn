@@ -1,11 +1,19 @@
 {
-  "name": "cdn",
+  "name": "cdn-list",
   "version": "1.0.0",
-  "description": "a lots js or other",
+  "description": "for website",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/cicyic/cdn.git"
+  },
+  "author": "chenic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cicyic/cdn/issues"
+  },
+  "homepage": "https://github.com/cicyic/cdn#readme"
 }
