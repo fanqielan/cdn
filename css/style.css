@@ -1,4 +1,31 @@
+/* loading img */
 .loading-img {
   background: url(https://img01.anzhiy.cn/useruploads/110/2023/03/13/640ef21352b25.gif) no-repeat center center;
   background-size: cover;
+}
+
+/* mouse style */
+body {
+
+  cursor: url(https://cdn.jsdelivr.net/gh/cicyic/cdn/mouse/x1.cur),auto;
+}
+a,
+img,
+button {
+  cursor: url(https://cdn.jsdelivr.net/gh/cicyic/cdn/mouse/link.cur), auto !important;
+}
+
+/* font style */
+@charset "UTF-8";
+
+@font-face {
+  font-family: "ruantang";
+  src: url("/fonts/软糖初恋体.ttf") format("truetype");
+  font-display: swap;
+}
+
+/* website runtime */
+div#runtime {
+    color: palevioletred;
+    padding: 0 auto;
 }
