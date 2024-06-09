@@ -5,7 +5,7 @@ Hi there 👋, I'm **Fanqie Lan** :tomato:.
 - The unpkg website url:&nbsp;&nbsp;<https://unpkg.com/>
 - The npm website url:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<https://www.npmjs.com/>
 
-👉 Looking for [Install Npm]:
+👉 First time to [Install Npm]:
 
 ```python
 brew install npm        # 安装环境
@@ -22,6 +22,20 @@ npm login   # 登陆NPM, 需要先注册账号 <https://www.npmjs.com/>, 然后�
 👉 Looking for [How to using it]:
 - Reuls: <https://unpkg.com/packagename@version/filename>
 - example: <https://unpkg.com/lanfanqie.cdn@1.0.0/听海-法国街头小提琴.mp4>
+
+👉 If you change the file, you need to update to github and the same as npm:
+```termianl
+# First, push the local changes to the GitHub repository.
+git status          # View the current status of the branch
+git diff            # Inspect the changes made to the files
+git branch --list   # List all the branches, highlighting the currently active one
+git commit -am 'change details'  # Use -am to stage all changes and commit with a message 'change details'
+git push -u origin main          # Push changes to the 'main' branch. For subsequent commits, you can simply use 'git push'.
+
+# Now, it's time to update the npm package.
+npm init           # Adjusting only the version number should suffice.
+npm publish        # With everything in place, publish your updates.
+```
 
 Here are some fantastic things. Maybe like a photo, food, sports et al.
 
