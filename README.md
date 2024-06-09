@@ -3,7 +3,7 @@ Hi there 👋, I'm **Fanqie Lan** :tomato:.
 - you can find package form github but using at NPM.
 - Which can give you better coding feel.
 
-Install NPM
+👉 Looking for [Install Npm]:
 
 ```python
 brew install npm        # 安装环境
@@ -17,7 +17,7 @@ npm init    # 创建package.json文件, 按照自己的信息输入,也可以 En
 npm login   # 登陆NPM, 需要先注册账号 <https://www.npmjs.com/>, 然后输入 userName | passWord | email
 ```
 
-How to using it:
+👉 Looking for [How to using it]:
 - Reuls: <https://unpkg.com/packagename@version/filename>
 - example: <https://unpkg.com/lanfanqie.cdn@1.0.0/听海-法国街头小提琴.mp4>
 
