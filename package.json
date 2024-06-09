@@ -1,19 +1,19 @@
 {
-  "name": "cdn-list",
-  "version": "1.0.5",
-  "description": "for website",
+  "name": "lanfanqie.cdn",
+  "version": "1.0.0",
+  "description": "you can find some files here:",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/cicyic/cdn.git"
+    "url": "git+https://github.com/fanqielan/lanfanqie.cdn.git"
   },
-  "author": "chenic",
+  "author": "ciryic",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cicyic/cdn/issues"
+    "url": "https://github.com/fanqielan/lanfanqie.cdn/issues"
   },
-  "homepage": "https://github.com/cicyic/cdn#readme"
+  "homepage": "https://github.com/fanqielan/lanfanqie.cdn#readme"
 }
