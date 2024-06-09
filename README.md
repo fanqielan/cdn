@@ -3,6 +3,10 @@ Hi there 👋, I'm **Fanqie Lan** :tomato:.
 - you can find package form github but using at NPM.
 - Which can give you better coding feel.
 
+How to using it:
+- Reuls: <https://unpkg.com/packagename@version/filename>
+- example: <https://unpkg.com/lanfanqie.cdn@1.0.0/听海-法国街头小提琴.mp4>
+
 Here are some fantastic things. Maybe like a photo, food, sports et al.
 
   $$ Life(me) = Eat(x) + Working(x) + Travel(x) + ... + Sleep(x)  + Love(x). $$
