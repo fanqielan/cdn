@@ -8,15 +8,15 @@ Hi there 👋, I'm **Fanqie Lan** :tomato:.
 👉 First time to [Install Npm]:
 
 ```python
-brew install npm        # 安装环境
-npm install npm -g      # 更新环境
+brew install npm        # Install the environment
+npm install npm -g      # Update the environment
 
-npm get registry		  # 查看当前npm镜像
-# 恢复官网镜像
+npm get registry		  # View the current npm registry mirror
+# Restore the official registry
 npm config set registry https://registry.npmjs.org/
 
-npm init    # 创建package.json文件, 按照自己的信息输入,也可以 Enter到底,输入yes即可
-npm login   # 登陆NPM, 需要先注册账号 <https://www.npmjs.com/>, 然后输入 userName | passWord | email
+npm init    # Create a package.json file, enter your own information, or just press Enter and input 'yes' for defaults
+npm login   # Log in to NPM. You need to register an account first at <https://www.npmjs.com/>, then enter userName, passWord, and email
 ```
 
 👉 Looking for [How to using it]:
