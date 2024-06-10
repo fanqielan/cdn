@@ -21,7 +21,7 @@ npm login   # Log in to NPM. You need to register an account first at <https://w
 
 👉 Looking for [How to using it]:
 - Reuls: <https://unpkg.com/packagename@version/filename>
-- example: <https://unpkg.com/lanfanqie.cdn@1.0.0/听海-法国街头小提琴.mp4>
+- example: <https://unpkg.com/lanfanqie.cdn@1.0.2/listen-sea.mp4>
 
 👉 If you change the file, you need to update to github and the same as npm:
 ```termianl
